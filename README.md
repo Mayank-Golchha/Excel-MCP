@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/title-animation.gif" alt="Excel-MCP Animation" width="600"/>
-</p>
 <h1 align="center">Excel-MCP</h1>
 
 <p align="center">
