@@ -11,12 +11,8 @@
 
 ## 📺 Demo
 
-<p align="center">
-  <video width="600" autoplay loop muted controls>
-    <source src="Assets/Sample_Video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+[![Watch Demo](Assets/Sample_Video.png)]
+
 
 <p align="center">
   <img src="Assets/SalesData_screenshot.png" alt="Excel-MCP UI Screenshot" width="600"/>
