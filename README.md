@@ -42,7 +42,9 @@
    ```
 
 4. Run the Server
+    ```sh
     uv run --with pandas excel_mcp_server.py
+    ```
 
    
 
