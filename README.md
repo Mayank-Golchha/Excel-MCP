@@ -11,7 +11,7 @@
 
 ## 📺 Demo
 
-[![Watch Demo](Assets/Sample_Video.png)]
+[![Watch Demo](Assets/Sample_Video.mp4)]
 
 
 <p align="center">
