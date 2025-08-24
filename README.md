@@ -12,15 +12,18 @@
 ## 📺 Demo
 
 <p align="center">
-  <a href="Assets/Sample_Video.mp4">
-    <img src="Assets/Sample_Video.png" alt="Watch Demo Video" width="120"/>
-    <br>
-    <b>Watch the Demo Video</b>
-  </a>
+  <video width="600" autoplay loop muted controls>
+    <source src="Assets/Sample_Video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <p align="center">
-  <img src="Sssets/SalesData screenshot.png" alt="Excel-MCP UI Screenshot" width="600"/>
+  <img src="Assets/SalesData_screenshot.png" alt="Excel-MCP UI Screenshot" width="600"/>
+</p>
+
+<p align="center">
+  <b>Tip:</b> You can install the <a href="https://www.anthropic.com/claude">Claude Desktop</a> app to connect to this MCP server, or build your own custom client to interact with it.
 </p>
 
 ---
@@ -40,31 +43,3 @@
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/Mayank-Golchha/Excel-MCP.git
-   ```
-2. **Open in Excel**:
-   - Import the add-in or enable macros as described in the documentation.
-3. **Dependencies**:
-   - Make sure to install any required libraries or packages mentioned.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Please open issues and pull requests for bugs, features, or improvements.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## 👤 Author
-
-- [Mayank Golchha](https://github.com/Mayank-Golchha)
-
----
-
-*Feel free to update this README with more specific instructions and details as your project evolves.*
