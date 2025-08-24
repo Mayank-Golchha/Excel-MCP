@@ -2,13 +2,11 @@
 
 <p>If you are a beginner or a intermediate and find excel to be hard than let AI do it for you by commands</p>
 
----
 
-<p align="center">
-  <b>Tip:</b> You can install the <a href="https://claude.ai/download">Claude Desktop</a> app to connect to this MCP server, or build your own custom client to interact with it.
+<p>
+  You can install the <a href="https://claude.ai/download">Claude Desktop</a> app to connect to this MCP server, or build your own custom client to interact with it.
 </p>
 
----
 
 ## Features
 
