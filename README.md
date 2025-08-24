@@ -50,28 +50,20 @@ Here are a few examples of what you can ask Claude Desktop to do with Excel-MCP:
 ```sh
 git clone https://github.com/Mayank-Golchha/Excel-MCP.git
 cd Excel-MCP
-
+```
 **Step 2: Set Up the Virtual Environment**
-
-<details>
-  <summary><strong>Windows</strong></summary>
-
+  For Windows
   ```sh
   python -m venv .venv
   .venv\Scripts\activate
   pip install -r requirements.txt
   ```
-</details>
-
-<details>
-  <summary><strong>Mac/Linux</strong></summary>
-
+  For Mac/Linux
   ```sh
   python -m venv .venv
   source .venv/bin/activate
   pip install -r requirements.txt
   ```
-</details>
 
 **Step 3: Run the Server**
 ```sh
