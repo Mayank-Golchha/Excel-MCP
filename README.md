@@ -29,16 +29,19 @@
    ```
 
 2. Windows
+   ```sh
    python -m venv .venv
    .venv\Scripts\activate
    pip install -r requirements.txt
-
+   ```
    Mac/Linux
+   ```sh
    python -m venv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
+   ```
 
-3. Run the Server
+4. Run the Server
     uv run --with pandas excel_mcp_server.py
 
    
