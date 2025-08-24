@@ -28,9 +28,7 @@ Here are a few examples of what you can ask Claude Desktop to do with Excel-MCP:
 - `"Show all rows in Sheet1 that have missing values"`  
 - `"Add a new column 'Total' which is the sum of columns A and B"`  
 - `"Filter Sheet2 to show only rows where 'Status' is 'Completed'"`  
-- `"Generate a bar chart of 'Sales' by 'Region' from Sheet3"`  
-- `"Merge Sheet1 and Sheet2 on column 'CustomerID'"`  
-- `"Highlight all values in column 'Revenue' greater than 10000"`  
+- `"Merge Sheet1 and Sheet2 on column 'CustomerID'"`   
 
 ---
 
