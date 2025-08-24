@@ -1,8 +1,5 @@
 <h1 align="center">Excel-MCP</h1>
 
-<p align="center">
-  <b>Automate, power up, and supercharge your Excel workflows.</b>
-</p>
 <p>If you are a beginner or a intermediate and find excel to be hard than let AI do it for you by commands</p>
 
 ---
