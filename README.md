@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <b>Tip:</b> You can install the <a href="https://www.anthropic.com/claude">Claude Desktop</a> app to connect to this MCP server, or build your own custom client to interact with it.
+  <b>Tip:</b> You can install the <a href="https://claude.ai/download">Claude Desktop</a> app to connect to this MCP server, or build your own custom client to interact with it.
 </p>
 
 ---
@@ -31,3 +31,21 @@
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/Mayank-Golchha/Excel-MCP.git
+   cd Excel-MCP
+   ```
+
+2. Windows
+   python -m venv .venv
+   .venv\Scripts\activate
+   pip install -r requirements.txt
+
+   Mac/Linux
+   python -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+
+3. Run the Server
+    uv run --with pandas excel_mcp_server.py
+
+   
+
