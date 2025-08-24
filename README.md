@@ -6,17 +6,9 @@
 <p align="center">
   <b>Automate, power up, and supercharge your Excel workflows.</b>
 </p>
+<p>If you are a beginner or a intermediate and find excel to be hard than let AI do it for you by commands</p>
 
 ---
-
-## 📺 Demo
-
-[![Watch Demo](Assets/Sample_Video.mp4)]
-
-
-<p align="center">
-  <img src="Assets/SalesData_screenshot.png" alt="Excel-MCP UI Screenshot" width="600"/>
-</p>
 
 <p align="center">
   <b>Tip:</b> You can install the <a href="https://www.anthropic.com/claude">Claude Desktop</a> app to connect to this MCP server, or build your own custom client to interact with it.
@@ -24,7 +16,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - Seamless integration with Microsoft Excel
 - Automate repetitive tasks
@@ -34,7 +26,7 @@
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**:
    ```sh
