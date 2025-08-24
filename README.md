@@ -12,15 +12,15 @@
 ## 📺 Demo
 
 <p align="center">
-  <a href="assets/demo.mp4">
-    <img src="assets/play-video.png" alt="Watch Demo Video" width="120"/>
+  <a href="Assets/Sample_Video.mp4">
+    <img src="Assets/Sample_Video.png" alt="Watch Demo Video" width="120"/>
     <br>
     <b>Watch the Demo Video</b>
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Excel-MCP UI Screenshot" width="600"/>
+  <img src="Sssets/SalesData screenshot.png" alt="Excel-MCP UI Screenshot" width="600"/>
 </p>
 
 ---
@@ -45,14 +45,6 @@
    - Import the add-in or enable macros as described in the documentation.
 3. **Dependencies**:
    - Make sure to install any required libraries or packages mentioned.
-
----
-
-## ⚡ Usage
-
-1. Open `Excel-MCP.xlsm` in Excel.
-2. Enable macros if prompted.
-3. Use the custom toolbar or buttons to start automation.
 
 ---
 
