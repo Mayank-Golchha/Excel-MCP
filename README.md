@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:3em; color:#1D6F42;">✨ Excel-MCP ✨</h1>
+<h1 align="center" style="font-size:3em; color:#1D6F42;">Excel-MCP </h1>
 
 <p align="center" style="font-size:1.2em;">
   <strong>Your AI-powered Excel Automation Assistant</strong><br>
@@ -12,13 +12,13 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✨ **Seamless Integration:** Works natively with Microsoft Excel.
-- 🤖 **AI Automation:** Automate tedious and repetitive tasks with simple commands.
-- 📊 **Advanced Data Processing:** Powerful tools for data analysis and visualization.
-- 🔒 **Security First:** Robust & secure architecture for peace of mind.
-- 🔧 **Customizable:** Easily extend features to fit your workflow.
+- **Seamless Integration:** Works natively with Microsoft Excel.
+- **AI Automation:** Automate tedious and repetitive tasks with simple commands.
+- **Advanced Data Processing:** Powerful tools for data analysis and visualization.
+- **Security First:** Robust & secure architecture for peace of mind.
+- **Customizable:** Easily extend features to fit your workflow.
 
 ---
 
@@ -59,7 +59,7 @@ uv run --with pandas excel_mcp_server.py
 
 ---
 
-## 🌟 Get Started
+## Get Started
 
 - Simply connect using the Claude Desktop app or a custom client.
 - Start giving natural language commands for Excel tasks.
